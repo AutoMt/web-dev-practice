@@ -22,6 +22,7 @@
 
 </div>
 ---
+
 ### 📦 Stimulus.js
 - Node.jsのインストール
 - npmからStimulusのインストール
