@@ -13,6 +13,7 @@ Cursor, Stimulus, TailwindCSSを使用したウェブ開発の練習用リポジ
   - https://qiita.com/GRGSIBERIA/items/b8cd4a2b3635d1bb0391
 
 ### 🔧 Cursor
+- Pryvacy modeをenableに
 - OpenAIのAPI Keyを登録
 - 拡張機能から以下をインストール：
   - ESLint
