@@ -1,27 +1,28 @@
-Web Dev Practice - README
+# Web Dev Practice - README
 
 このプロジェクトは、TailwindCSSのPlay CDNを使用したウェブ開発の練習用リポジトリです。
 
-✅ 事前学習で行ったことを報告します。
+## ✅ 事前学習で行ったことを報告します。
 
-🔧 Cursor
+### 🔧 Cursor
+- OpenAIのAPI Keyを登録
+- 拡張機能から以下をインストール：
+  - ESLint
+  - Live Server
+  - Node.js Modules Intellisense
 
-OpenAIのAPI Keyを登録
+### 📦 Stimulus.js
+- Node.jsのインストール
+- npmからStimulusのインストール
 
-拡張機能から以下をインストール：
+### 🎨 TailwindCSS
+- CDNで利用
 
-ESLint
+---
 
-Live Server
+## 📸 画像の貼り方
+1. **画像ファイルをこのリポジトリにアップロード**します。
+2. 以下のようにMarkdownで記述します：
 
-Node.js Modules Intellisense
-
-📦 Stimulus.js
-
-Node.jsのインストール
-
-npmからStimulusのインストール
-
-🎨 TailwindCSS
-
-CDNで利用
+```markdown
+![説明文](./パス/ファイル名.png)
