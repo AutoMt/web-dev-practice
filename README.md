@@ -4,6 +4,16 @@ Cursor, Stimulus, TailwindCSSを使用したウェブ開発の練習用リポジ
 
 ## ✅ 事前学習で行ったこと
 
+### 📘 事前知識
+- Web開発の経験がなかったのでJavaScriptの概要や他のプログラミング言語との在り方の違いを調べました。
+
+  (途中までPythonでCursorを試しています。)
+  
+- 参考にしたサイト
+  - https://www.akkodis.co.jp/candidate/insight/column_29
+  - https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb
+  - https://qiita.com/GRGSIBERIA/items/b8cd4a2b3635d1bb0391
+
 ### 🔧 Cursor
 - OpenAIのAPI Keyを登録
 - 拡張機能から以下をインストール：
