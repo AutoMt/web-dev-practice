@@ -10,7 +10,7 @@
   - ESLint
   - Live Server
   - Node.js Modules Intellisense
-
+---
 <div align="center">
 <img src="images/cursorTest1.png" alt="コードを生成する例(Python)" width="600">
   
@@ -21,7 +21,7 @@
 チャットからコードを改変する例
 
 </div>
-
+---
 ### 📦 Stimulus.js
 - Node.jsのインストール
 - npmからStimulusのインストール
