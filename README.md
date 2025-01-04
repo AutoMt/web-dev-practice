@@ -10,13 +10,13 @@
   - ESLint
   - Live Server
   - Node.js Modules Intellisense
----
+
 <div align="center">
-<img src="images/cursorTest1.png" alt="コードを生成する例(Python)" width="600">
+<img src="images/cursorTest1.png" alt="コードを生成する例(Python)" width="400">
   
 コードを生成する例(Python)
 
-<img src="images/cursorTest2.png" alt="チャットからコードを改変する例" width="600">
+<img src="images/cursorTest2.png" alt="チャットからコードを改変する例" width="400">
 
 チャットからコードを改変する例
 
