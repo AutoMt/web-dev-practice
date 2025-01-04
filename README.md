@@ -11,18 +11,14 @@
   - Live Server
   - Node.js Modules Intellisense
 
+![コード生成を試してみた例(Python)](src/images/cursorTest1.png)
+
+![チャットからコードを改変する例](src/images/cursorTest2.png)
+
+
 ### 📦 Stimulus.js
 - Node.jsのインストール
 - npmからStimulusのインストール
 
 ### 🎨 TailwindCSS
 - CDNで利用
-
----
-
-## 📸 画像の貼り方
-1. **画像ファイルをこのリポジトリにアップロード**します。
-2. 以下のようにMarkdownで記述します：
-
-```markdown
-![説明文](./パス/ファイル名.png)
