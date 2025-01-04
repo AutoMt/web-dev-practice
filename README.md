@@ -5,7 +5,7 @@ Cursor, Stimulus, TailwindCSSを使用したウェブ開発の練習用リポジ
 ## ✅ 事前学習で行ったこと
 
 ### 📘 事前知識
-- Web開発の経験がなかったのでJavaScriptの概要や他のプログラミング言語との在り方の違いを調べました。
+- Web開発の経験がなかったのでHTML, JavaScript, CSSの概要や他のプログラミング言語との在り方の違いを調べました。
   (途中までPythonでCursorを試しています。)
 - 参考にしたサイト
   - https://www.akkodis.co.jp/candidate/insight/column_29
