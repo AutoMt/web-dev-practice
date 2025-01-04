@@ -47,10 +47,8 @@ Cursor, Stimulus, TailwindCSSを使用したウェブ開発の練習用リポジ
 <div align="center">
 <img src="images/cursorTest3.png" alt="作ったページ" width="600">
 
-最初に作ったページ
+作ったページ
 
 </div>
 
 とりあえず生成⇒実行⇒動いたり動かなかったりしたら読んでみる、の繰り返しでページが表示される所まで試してみた。
-
-#### コードを理解しながらカスタマイズしてみる
