@@ -30,6 +30,10 @@
 ### 🎨 TailwindCSS
 - CDNで利用
 
+---
+
+### ChatGPTを活用してページを作ってみる
+
 <div align="center">
 <img src="images/cursorTest3.png" alt="作ったページ" width="600">
 
