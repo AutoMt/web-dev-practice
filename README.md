@@ -1,6 +1,6 @@
 # Web Dev Practice - README
 
-このプロジェクトは、TailwindCSSのPlay CDNを使用したウェブ開発の練習用リポジトリです。
+このプロジェクトは、Cursor, Stimulus, TailwindCSSを使用したウェブ開発の練習用リポジトリです。
 
 ## ✅ 事前学習で行ったこと
 
@@ -29,3 +29,11 @@
 
 ### 🎨 TailwindCSS
 - CDNで利用
+
+<div align="center">
+<img src="images/cursorTest3.png" alt="作ったページ" width="600">
+
+作ったページ
+
+</div>
+
