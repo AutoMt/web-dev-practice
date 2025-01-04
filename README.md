@@ -11,9 +11,9 @@
   - Live Server
   - Node.js Modules Intellisense
 
-![コード生成を試してみた例(Python)](images/cursorTest1.png)
+<img src="images/cursorTest1.png" alt="コードを生成する例(Python)" width="400">
 
-![チャットからコードを改変する例](images/cursorTest2.png)
+<img src="images/cursorTest2.png" alt="チャットからコードを改変する例" width="400">
 
 
 ### 📦 Stimulus.js
