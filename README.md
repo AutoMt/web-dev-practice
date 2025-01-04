@@ -1,6 +1,6 @@
 # Web Dev Practice - README
 
-このプロジェクトは、Cursor, Stimulus, TailwindCSSを使用したウェブ開発の練習用リポジトリです。
+Cursor, Stimulus, TailwindCSSを使用したウェブ開発の練習用リポジトリです。
 
 ## ✅ 事前学習で行ったこと
 
