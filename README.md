@@ -19,6 +19,7 @@ Cursor, Stimulus, TailwindCSSを使用したウェブ開発の練習用リポジ
   - ESLint
   - Live Server
   - Node.js Modules Intellisense
+- 機能を試してみる
 
 <div align="center">
 <img src="images/cursorTest1.png" alt="コードを生成する例(Python)" width="400">
