@@ -11,10 +11,10 @@
   - Live Server
   - Node.js Modules Intellisense
 
-<img src="images/cursorTest1.png" alt="コードを生成する例(Python)" width="400">
-
-<img src="images/cursorTest2.png" alt="チャットからコードを改変する例" width="400">
-
+<div align="center">
+<img src="images/cursorTest1.png" alt="コードを生成する例(Python)" width="600">
+<img src="images/cursorTest2.png" alt="チャットからコードを改変する例" width="600">
+</div>
 
 ### 📦 Stimulus.js
 - Node.jsのインストール
